@@ -1,7 +1,7 @@
 apple
 banana
 cherry
-apple
+APPle
 date
 elderberry
 fig
